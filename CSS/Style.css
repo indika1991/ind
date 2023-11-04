@@ -1,0 +1,62 @@
+.title-1{
+
+background-color: blue; font-size: large; color: white;
+
+}
+title-4{
+    background-color: blue; font-size: large; color: white;
+
+}
+
+/* type selector */
+h2{
+ color: aqua;
+ background-color: blanchedalmond;
+}
+
+/* Class Selector-meya title-5 yodagena onvtharam elemnt walata liyanna puluwan */
+
+.title-5{
+    background-color: aquamarine;
+    color: brown;
+}
+/* ID Selector -eka element ekakata vitharak liviya heka*/
+#title-6{
+
+    background-color: brown;
+    color: blue;
+
+
+}
+/* child selector */
+body>h2{
+
+background-color: blanchedalmond;
+color: black;
+
+}
+body>div>p{
+    background-color: blanchedalmond;
+    color: black;
+
+}
+/* universal selector */
+*{
+
+margin: 0;
+
+}
+/* Box Modele  */
+.box-continer{
+    background-color: brown;
+    width: 600px;
+}
+.box-model{
+
+    background-color: bisque;
+    margin: 40px;
+    border: 30px solid black ;
+    padding: 40px;
+
+
+}

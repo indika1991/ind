@@ -1,0 +1,29 @@
+body{
+background-color: aqua;
+.button{
+
+    background-color: brown;
+}
+/* screen 300px wenakota color eka change wei/button eka nethi wei */
+}
+@media only screen and (max-width:300px) {
+
+    body{
+
+        background-color: blue;
+    }
+    .button{
+
+        display: none;
+    }
+    
+}
+@media only screen and (min-width:425px) {
+
+    body{
+
+        background-color:red;
+    }
+    
+    
+}

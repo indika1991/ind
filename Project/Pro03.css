@@ -1,0 +1,62 @@
+.button{
+
+border-radius: 2px;
+border: 2px;
+margin: 2px;
+
+
+
+
+}
+.button:hover{
+background-color: blueviolet;
+
+}
+
+.flex-row{
+display: flex;
+flex-direction: row;
+
+
+
+}
+.button01{
+bacackground-color: aliceblue;
+width: 50px;
+height: 50px;
+
+
+}
+.button02{
+background-color: blue;
+width: 50px;
+height: 50px;
+
+
+
+}
+.button03{
+background-color: antiquewhite;
+width: 60px;
+height: 60px;
+
+}
+.button04{
+background-color: azure;
+width: 50px;
+height: 50px;
+
+
+}
+.button05{
+background-color: bisque;
+width: 60px;
+height: 60px;
+
+}
+.button06{
+background-color: blue;
+width: 70px;
+height: 70px;
+
+}

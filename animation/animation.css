@@ -1,0 +1,53 @@
+.animation{
+background-color: red;
+width: 300px;
+height: 200px;
+ position: relative;
+animation-name: example;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+
+}
+@keyframes example {
+
+from{
+background-color:red;left: 0;top: 0;
+
+}
+
+to {
+    background-color: blue;left: 800px;top: 300px;
+
+
+}
+/* another way */
+
+}
+.animation-01{
+    background-color: rgb(34, 142, 86);
+    width: 300px;
+    height: 200px;
+    position: relative;
+    animation-name: example-01;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    
+    }
+    @keyframes example-01 {
+
+        0%{
+        background-color:red;left: 100px;top: 100px;
+        
+        }
+        
+        100% {
+            background-color: blue;left: 1000px;top: 1000px;
+        
+        
+        }
+        
+        
+        }
+
+        
+

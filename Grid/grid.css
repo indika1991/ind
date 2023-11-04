@@ -1,0 +1,33 @@
+.item{
+ height: 50;
+ background-color: aqua;
+ margin: 5px;
+ text-align: center;
+
+
+}
+.grid-container{
+
+display: grid;
+grid-template-columns: auto auto auto auto auto;
+
+
+}
+.item-01{
+ margin: 10px;
+ border: 10px;
+ padding: 10px;
+ background-color: blue;
+ text-align: center;
+
+
+}
+
+.grid-container-01{
+
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+
+
+
+}
